@@ -21,5 +21,7 @@ This site is built using [Jekyll](jekyllrb.com). To get started, we recommend [t
 * [Fork and Clone this repository](https://help.github.com/articles/fork-a-repo)
 * In your local repo, run 'jekyll --server' and checkout http://localhost:4000
 
+For an easy editing experience complete with markdown preview, we recommend [prose.io](http://prose.io).
+
 *We ask that your contributions remain consistent with our core principles (above), and that you make sure to feel warm and fuzzy afterward, since helping out is really, really cool of you.
 
